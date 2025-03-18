@@ -7,4 +7,8 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ps,ai,blender,bootstrap,docker,git,github,nodejs,pnpm,react,vue,redux,sass,threejs,vite,webpack,gsap)](https://skillicons.dev)--->
 [![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,redux,sass,threejs,gsap)](https://skillicons.dev)
+[![Build Tools](https://skillicons.dev/icons?i=nodejs,pnpm,vite,webpack)](https://skillicons.dev)
+[![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,blender)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=bootstrap,docker)](https://skillicons.dev)
 
