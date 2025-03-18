@@ -5,7 +5,7 @@
 </div>
 
 ## ✨ About Me
-I'm a creative developer with a passion for crafting beautiful, interactive frontend experiences. My work combines the precision of code with the artistry of design, bringing digital interfaces to life through thoughtful animations and seamless interactions.
+I am a frontend developer passionate about UI/UX, 3D design, and development. I will be continuously updating with some small animations.
 
 ## 🚀 What I Do
 - Create visually striking UI components
