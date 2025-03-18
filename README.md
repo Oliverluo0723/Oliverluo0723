@@ -32,10 +32,3 @@ I'm a creative developer with a passion for crafting beautiful, interactive fron
 
 ## 🔍 Current Focus
 I'm currently exploring advanced animation techniques with GSAP and Three.js, constantly pushing the boundaries of what's possible in web animation.
-
-## 📫 Let's Connect
-Feel free to explore my repositories and reach out if you'd like to collaborate on something creative!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oliverluo0723&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
