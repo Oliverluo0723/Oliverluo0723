@@ -1,14 +1,41 @@
-Hi, welcome to my GitHub! 👋
+# 👋 Hello, I'm Oliver! 
 
-I’m a creative developer passionate about frontend UI/UX design and development. Here, you’ll find some small animations that I’m constantly creating and releasing.
-<!---
-Oliverluo0723/Oliverluo0723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,ps,ai,blender,bootstrap,docker,git,github,nodejs,pnpm,react,vue,redux,sass,threejs,vite,webpack,gsap)](https://skillicons.dev)--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Creative+Animator;Always+Learning" alt="Typing SVG" />
+</div>
+
+## ✨ About Me
+I'm a creative developer with a passion for crafting beautiful, interactive frontend experiences. My work combines the precision of code with the artistry of design, bringing digital interfaces to life through thoughtful animations and seamless interactions.
+
+## 🚀 What I Do
+- Create visually striking UI components
+- Design and develop responsive web applications
+- Craft smooth animations that enhance user experience
+- Explore the intersection of design and technology
+
+## 💻 Skills
+
+### Frontend Development
 [![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,redux,sass,threejs)](https://skillicons.dev)
+
+### Build Tools & Environment
 [![Build Tools](https://skillicons.dev/icons?i=nodejs,pnpm,vite,webpack)](https://skillicons.dev)
+
+### Version Control
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+### Design & Creative
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,blender)](https://skillicons.dev)
+
+### Additional Tools
 [![Other Tools](https://skillicons.dev/icons?i=bootstrap,docker)](https://skillicons.dev)
 
+## 🔍 Current Focus
+I'm currently exploring advanced animation techniques with GSAP and Three.js, constantly pushing the boundaries of what's possible in web animation.
+
+## 📫 Let's Connect
+Feel free to explore my repositories and reach out if you'd like to collaborate on something creative!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oliverluo0723&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
