@@ -6,3 +6,5 @@ Oliverluo0723/Oliverluo0723 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,figma,ps,ai)](https://skillicons.dev)
+
