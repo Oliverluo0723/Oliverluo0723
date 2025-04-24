@@ -16,7 +16,7 @@ I am a frontend developer passionate about UI/UX, 3D design, and development. I 
 ## 💻 Skills
 
 ### Frontend Development
-[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,redux,sass,threejs)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,redux,sass,threejs,ts)](https://skillicons.dev)
 
 ### Build Tools & Environment
 [![Build Tools](https://skillicons.dev/icons?i=nodejs,pnpm,vite,webpack)](https://skillicons.dev)
@@ -28,7 +28,7 @@ I am a frontend developer passionate about UI/UX, 3D design, and development. I 
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,blender)](https://skillicons.dev)
 
 ### Additional Tools
-[![Other Tools](https://skillicons.dev/icons?i=bootstrap,docker)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=bootstrap,docker,tailwind,postman)](https://skillicons.dev)
 
 ## 🔍 Current Focus
 I'm currently exploring advanced animation techniques with GSAP and Three.js, constantly pushing the boundaries of what's possible in web animation.
