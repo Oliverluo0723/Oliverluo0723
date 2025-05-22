@@ -15,26 +15,27 @@ I am a frontend developer passionate about UI/UX, 3D design, and development. I 
 
 ## 💻 Skills
 
-### 🌐 Frontend 技術（核心開發技能）  
+### 🌐 Frontend Development  
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,threejs)](https://skillicons.dev)
 
-### 🎨 UI / UX 與視覺設計工具  
+### 🎨 UI / UX & Design Tools  
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,blender)](https://skillicons.dev)
 
-### 🧱 後端平台與執行環境  
+### 🧱 Backend Platform  
 [![Backend Platform](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
-### ⚙️ 開發建構工具  
+### ⚙️ Build Tools & Environment  
 [![Build Tools](https://skillicons.dev/icons?i=vite,pnpm,webpack)](https://skillicons.dev)
 
-### 🧪 API 與開發支援工具  
+### 🧪 API & Development Utilities  
 [![Dev Tools](https://skillicons.dev/icons?i=postman,docker)](https://skillicons.dev)
 
-### 🎨 CSS 框架與 UI 工具包  
+### 🎨 CSS Frameworks & UI Libraries  
 [![CSS Tools](https://skillicons.dev/icons?i=tailwind,sass,bootstrap)](https://skillicons.dev)
 
-### 🗃️ 版本控制與協作  
+### 🗃️ Version Control & Collaboration  
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
 
 
 ## 🔍 Current Focus
