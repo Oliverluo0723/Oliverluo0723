@@ -22,7 +22,7 @@ I am a frontend developer passionate about UI/UX, 3D design, and development. I 
 [![Design Tools](https://skillicons.dev/icons?i=figma,ps,ai,blender)](https://skillicons.dev)
 
 ### 🧱 Backend Platform  
-[![Backend Platform](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Backend Platform](https://skillicons.dev/icons?i=nodejs,PostgreSQL,MySQL)](https://skillicons.dev)
 
 ### ⚙️ Build Tools & Environment  
 [![Build Tools](https://skillicons.dev/icons?i=vite,pnpm,webpack)](https://skillicons.dev)
